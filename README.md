@@ -8,7 +8,7 @@
 
 ### Verificación de existencia: Se utiliza la función contiene la clave del HashMap para verificar si una categoría ya existe en el HashMap.
 
-###entajas de usar HashMap:
+### Ventajas de usar HashMap:
 
 ### Eficiencia: Buscar y acceder a elementos en un HashMap es generalmente más rápido que en un array, especialmente cuando se manejan grandes cantidades de datos.
 
