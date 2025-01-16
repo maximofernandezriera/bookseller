@@ -7,7 +7,8 @@
 ### Almacenamiento de datos: Se utiliza un HashMap para almacenar el stock por categoría. Esto permite un acceso más rápido a los datos mediante claves.
 
 ### Verificación de existencia: Se utiliza la función contiene la clave del HashMap para verificar si una categoría ya existe en el HashMap.
-Ventajas de usar HashMap:
+
+###entajas de usar HashMap:
 
 ### Eficiencia: Buscar y acceder a elementos en un HashMap es generalmente más rápido que en un array, especialmente cuando se manejan grandes cantidades de datos.
 
